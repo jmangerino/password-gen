@@ -2,4 +2,4 @@
 ## This was a project for Unibersity of Utah boot camp, I used java script to generate a random password.
 ## this website will generate a random password for you. It will prompt the user on what they want to add from uppercase letters, lowercase letters, special characters, and numbers.
 ## after you answer all the prompts it will than generate a password for you
-<img src="repository/assets/Passwordgenerator.jpg" alt="Screenshot" title="Screenshot">
+![alt text](https://github.com/jmangerino/password-gen/blob/main/assets/Passwordgenerator.jpg)
